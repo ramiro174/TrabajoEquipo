@@ -8,6 +8,9 @@ public class Main {
 
         System.out.println("Mi menu");
         System.out.println("Opcion 1!");
+        System.out.println("Opcion 2!");
+        System.out.println("Opcion 3!");
+        System.out.println("Opcion 4!");
 
     }
 }
