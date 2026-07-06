@@ -11,6 +11,10 @@ public class Main {
         System.out.println("Opcion 2!");
         System.out.println("Opcion 3!");
         System.out.println("Opcion 4!");
+        System.out.println("Opcion 3!");
+        System.out.println("Opcion 4!");
+        System.out.println("Opcion 3!");
+        System.out.println("Opcion 4!");
 
     }
 }
